@@ -1,0 +1,14 @@
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\bin\Debug\net9.0\PhoneKeypadDecoderApp.exe
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\bin\Debug\net9.0\PhoneKeypadDecoderApp.deps.json
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\bin\Debug\net9.0\PhoneKeypadDecoderApp.runtimeconfig.json
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\bin\Debug\net9.0\PhoneKeypadDecoderApp.dll
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\bin\Debug\net9.0\PhoneKeypadDecoderApp.pdb
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.AssemblyInfoInputs.cache
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.AssemblyInfo.cs
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.csproj.CoreCompileInputs.cache
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.dll
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\refint\PhoneKeypadDecoderApp.dll
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.pdb
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\PhoneKeypadDecoderApp.genruntimeconfig.cache
+C:\Work\KIP_SERVICE\PhoneKeypadDecoderApp\obj\Debug\net9.0\ref\PhoneKeypadDecoderApp.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneKeypadDecoderApp", "PhoneKeypadDecoderApp.csproj", "{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneKeypadDecoderTestApp", "..\PhoneKeypadDecoderTestApp\PhoneKeypadDecoderTestApp.csproj", "{65823566-ABFF-4B80-92C2-832D9074478D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65823566-ABFF-4B80-92C2-832D9074478D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65823566-ABFF-4B80-92C2-832D9074478D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65823566-ABFF-4B80-92C2-832D9074478D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65823566-ABFF-4B80-92C2-832D9074478D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C5EE9BF-2ADA-4791-B37F-65BB70EEFE6C}
+	EndGlobalSection
+EndGlobal
