@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoneKeypadDecoderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62ac0cf240b8fc2ae53241f74327a13583c9fd9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoneKeypadDecoderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoneKeypadDecoderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

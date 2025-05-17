@@ -965,11 +965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj",
+      "projectUniqueName": "C:\\Work\\Tests\\Диполь\\PhoneKeypadDecoder\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj",
       "projectName": "PhoneKeypadDecoderTestApp",
-      "projectPath": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj",
+      "projectPath": "C:\\Work\\Tests\\Диполь\\PhoneKeypadDecoder\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj",
       "packagesPath": "C:\\Users\\Darya\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\obj\\",
+      "outputPath": "C:\\Work\\Tests\\Диполь\\PhoneKeypadDecoder\\PhoneKeypadDecoderTestApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -991,8 +991,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\PhoneKeypadDecoderApp.csproj": {
-              "projectPath": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\PhoneKeypadDecoderApp.csproj"
+            "C:\\Work\\Tests\\Диполь\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\PhoneKeypadDecoderApp.csproj": {
+              "projectPath": "C:\\Work\\Tests\\Диполь\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\PhoneKeypadDecoderApp.csproj"
             }
           }
         }

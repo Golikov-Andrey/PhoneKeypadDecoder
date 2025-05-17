@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34z8GHEzJHA=",
+  "dgSpecHash": "ES9Tbue6vQg=",
   "success": true,
-  "projectFilePath": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj",
+  "projectFilePath": "C:\\Work\\Tests\\Диполь\\PhoneKeypadDecoder\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Darya\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Darya\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

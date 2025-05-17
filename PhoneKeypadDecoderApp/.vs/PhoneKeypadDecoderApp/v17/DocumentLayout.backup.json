@@ -1,24 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\",
+  "WorkspaceRootPath": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|c:\\work\\kip_service\\phonekeypaddecoderapp\\core\\classes\\alternativdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|c:\\work\\tests\\\u0434\u0438\u043F\u043E\u043B\u044C\\phonekeypaddecoder\\phonekeypaddecoderapp\\core\\classes\\alternativdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|solutionrelative:core\\classes\\alternativdecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65823566-ABFF-4B80-92C2-832D9074478D}|..\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj|c:\\work\\kip_service\\phonekeypaddecodertestapp\\alternativdecodertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|c:\\work\\kip_service\\phonekeypaddecoderapp\\core\\classes\\phonekeypaddecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|c:\\work\\tests\\\u0434\u0438\u043F\u043E\u043B\u044C\\phonekeypaddecoder\\phonekeypaddecoderapp\\core\\classes\\phonekeypaddecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|solutionrelative:core\\classes\\phonekeypaddecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65823566-ABFF-4B80-92C2-832D9074478D}|..\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTestApp.csproj|c:\\work\\kip_service\\phonekeypaddecodertestapp\\phonekeypaddecodertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|c:\\work\\tests\\\u0434\u0438\u043F\u043E\u043B\u044C\\phonekeypaddecoder\\phonekeypaddecoderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|c:\\work\\kip_service\\phonekeypaddecoderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6974A5D1-5F38-4FD6-8F70-3735ED8E3D31}|PhoneKeypadDecoderApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,68 +32,65 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AlternativDecoderTest.cs",
               "DocumentMoniker": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs",
-              "RelativeDocumentMoniker": "..\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs",
               "ToolTip": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs",
-              "RelativeToolTip": "..\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\AlternativDecoderTest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:08:39.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T12:08:39.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PhoneKeypadDecoderTest.cs",
               "DocumentMoniker": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs",
-              "RelativeDocumentMoniker": "..\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs",
               "ToolTip": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs",
-              "RelativeToolTip": "..\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\KIP_SERVICE\\PhoneKeypadDecoderTestApp\\PhoneKeypadDecoderTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T12:00:54.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T12:00:54.168Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AlternativDecoder.cs",
-              "DocumentMoniker": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\Core\\Classes\\AlternativDecoder.cs",
+              "DocumentMoniker": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\Core\\Classes\\AlternativDecoder.cs",
               "RelativeDocumentMoniker": "Core\\Classes\\AlternativDecoder.cs",
-              "ToolTip": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\Core\\Classes\\AlternativDecoder.cs",
+              "ToolTip": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\Core\\Classes\\AlternativDecoder.cs",
               "RelativeToolTip": "Core\\Classes\\AlternativDecoder.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T08:35:42.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PhoneKeypadDecoder.cs",
-              "DocumentMoniker": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\Core\\Classes\\PhoneKeypadDecoder.cs",
+              "DocumentMoniker": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\Core\\Classes\\PhoneKeypadDecoder.cs",
               "RelativeDocumentMoniker": "Core\\Classes\\PhoneKeypadDecoder.cs",
-              "ToolTip": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\Core\\Classes\\PhoneKeypadDecoder.cs",
+              "ToolTip": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\Core\\Classes\\PhoneKeypadDecoder.cs",
               "RelativeToolTip": "Core\\Classes\\PhoneKeypadDecoder.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAL0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T11:01:30.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\Program.cs",
+              "DocumentMoniker": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Work\\KIP_SERVICE\\PhoneKeypadDecoderApp\\Program.cs",
+              "ToolTip": "C:\\Work\\Tests\\\u0414\u0438\u043F\u043E\u043B\u044C\\PhoneKeypadDecoder\\PhoneKeypadDecoderApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T11:00:44.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T11:00:44.59Z"
             }
           ]
         }
